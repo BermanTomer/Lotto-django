@@ -10,3 +10,5 @@ python manage.py startapp Lotto
 ####When changing Models.py running both of this functions
 python manage.py makemigrations
 python manage.py migrate
+
+http://127.0.0.1:8000
